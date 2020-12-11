@@ -1,7 +1,6 @@
 # Error Correcting Codes
 
 ### References
-3Blue1Brown's YouTube channel. "[Hamming codes and error correction](https://www.youtube.com/watch?v=X8jsijhllIA)".
 Ball, Simeon. (2020). _A Course in Algebraic Error-Correcting Codes_.<br>
 Berlekamp, Elwyn R. (2015). _Algebraic Coding Theory_.<br>
 Bierbrauer, Jurgen. (2016). _Introduction to Coding Theory_.<br>
@@ -21,6 +20,8 @@ Reza, Fazlollah M. (1994). _An Introduction to Information Theory_. Dover.<br>
 Roman, Steven. (1997). _Introduction to Coding and Information Theory_. Springer Undergraduate Texts in Mathematics.<br>
 --. (1992). _Coding and Information Theory_. Springer Graduate Texts in Mathematics.<br>
 Roth, Ron. (2006). _Introduction to Coding Theory_. Cambridge University Press.<br>
+Sanderson, Grant. (2020). "[Hamming codes and error correction](https://www.youtube.com/watch?v=X8jsijhllIA)". 3Blue1Brown YouTube channel.<br>
+Sanderson, Grant. (2020). "[Hamming codes part 2, the elegance of it all](https://www.youtube.com/watch?v=b3NxrZOu_CE)". 3Blue1Brown YouTube channel.<br>
 Sanvicente, Emilio. (2019). _Understanding Error Control Coding_. Springer.<br>
 Stepanov, Serguei A. (1999). _Codes on Algebraic Curves_. Springer.<br>
 Sweeney, Peter. (2002). _Error Control Coding: From Theory to Practice_. Wiley.<br>
