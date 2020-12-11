@@ -1,6 +1,7 @@
 # Error Correcting Codes
 
 ### References
+3Blue1Brown's YouTube channel. "(Hamming codes and error correction)[https://www.youtube.com/watch?v=X8jsijhllIA]".
 Ball, Simeon. (2020). _A Course in Algebraic Error-Correcting Codes_.<br>
 Berlekamp, Elwyn R. (2015). _Algebraic Coding Theory_.<br>
 Bierbrauer, Jurgen. (2016). _Introduction to Coding Theory_.<br>
